@@ -7,5 +7,6 @@ git reset HEAD readme.txt   把暂存区的修改撤回工作区，重新放回�
 唉，怎么还不成功呀！！难过
 git checkout -b dev  创建并切换到dev分支
 git checkout dev_1  切换到dev_1分支
+啊啊啊！！！竟然成功了，意外之喜啊
 
 
