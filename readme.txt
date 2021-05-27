@@ -8,5 +8,6 @@ git reset HEAD readme.txt   把暂存区的修改撤回工作区，重新放回�
 git checkout -b dev  创建并切换到dev分支  //使用git switch -c a  创建并切换到新的分支a
 git checkout dev_1  切换到dev_1分支       //git switch a   直接切换到a分支
 啊啊啊！！！竟然成功了，意外之喜啊
+试试？
 
 
