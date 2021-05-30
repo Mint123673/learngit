@@ -1,3 +1,7 @@
 eaay to satisfy,hard to hunt work
 I actually am a funv.
 我来修改了
+工作区和暂存区，事实上我们创建的文件夹learngit 就是一个工作区
+而git add <file name>，就是把file存进一个地方，这个方就是暂存区。 
+在dev分支上修改LICENESS.txt里面的内容
+
