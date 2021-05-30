@@ -5,3 +5,4 @@ I actually am a funv.
 而git add <file name>，就是把file存进一个地方，这个方就是暂存区。 
 在dev分支上修改LICENESS.txt里面的内容
 
+
