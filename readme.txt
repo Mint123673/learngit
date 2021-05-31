@@ -9,7 +9,7 @@ git checkout -b dev  创建并切换到dev分支  //使用git switch -c a  创�
 git checkout dev_1  切换到dev_1分支       //git switch a   直接切换到a分支
 啊啊啊！！！竟然成功了，意外之喜啊
 试试？
-？离谱   I don't want to change anything.
+？离谱   I don't want to change anything.No,you want.
 想要修改文件并且提交，步骤：vim <file name> -> git add <file name> -> git commit -m <file name> 才能真正的提交。
 --------------------
 
