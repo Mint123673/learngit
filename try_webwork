@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>web第三次作业</title>
+</head>
+
+<body>
+    <h1> <br>WEB应用软件开发实训 - 第3次作业 -Git使用</br>
+        <h2> learngit 项目网址为：http://127.0.0.1:4000/web_rask.html</h2>
+    </h1>
+    <h2> 一、必做部分</h2>
+    <h3>1、安装Git</h3>
+    <p><img src="web_images/1.png" alt="install_git" width="401" height="99"></p>
+    <h3>2、创建版本库</h3>
+    <p><img src="web_images/2.png" alt="创建版本库" width="504" height="105"></p>
+    <h3>3、版本控制</h3>
+    <p><img src="web_images/3.png" alt="版本控制" width="459" height="376"></p>
+    <h3>4、版本回退</h3>
+    <p><img src="web_images/41.png" alt="版本回退" width="460" height="453"></p>
+    <p><img src="web_images/42.png" alt="版本回退" width="460" height="196"></p>
+    <h3>5、工作区和暂存区</h3>
+    <p><img src="web_images/5.png" alt="工作区和暂存区" width="470" height="459"></p>
+    <h3>6、管理修改</h3>
+    <p><img src="web_images/6.png" alt="管理修改" width="497" height="131"></p>
+    <h3>7、撤销修改</h3>
+    <p><img src="web_images/71.png" alt="撤销修改" width="470" height="324"></p>
+    <p><img src="web_images/72.png" alt="撤销修改" width="516" height="454"></p>
+    <h3>8、删除文件</h3>
+    <p><img src="web_images/8.png" alt="删除文件" width="436" height="261"></p>
+    <h3>9、远程仓库</h3>
+    <p><img src="web_images/91.png" alt="远程仓库" width="422" height="100"></p>
+    <p><img src="web_images/92.png" alt="远程仓库" width="422" height="225"></p>
+    <h3>10、添加到远程仓库</h3>
+    <p><img src="web_images/10_1.png" alt="添加到远程仓库" width="517" height="274"></p>
+    <p><img src="web_images/10_2.png" alt="添加到远程仓库" width="538" height="388"></p>`
+    <h3>11、从远程仓库克隆</h3>
+    <p><img src="web_images/11.png" alt="从远程仓库克隆" width="519" height="140"></p>
+
+    <h2>二、选做部分</h2>
+
+    <h3>（一）分支管理</h3>
+    <h4>1、创建与合并分支</h4>
+    <p><img src="web_images/git merge1.png" alt="创建与合并分支" width="536" height="776"></p>
+    <p><img src="web_images/git merge2.png" alt="创建与合并分支" width="529" height="489"></p>
+    <h4>2、分支管理策略</h4>
+    <p><img src="web_images/branch_management.png" alt="分支管理策略" width="531" height="444"></p>
+    <h4>3、Bug分支</h4>
+    <p><img src="web_images/bug1.png" alt="Bug分支" width="582" height="721"></p>
+    <p><img src="web_images/bug2.png" alt="Bug分支" width="537" height="624"></p>
+    <h4>4、Feature分支</h4>
+    <p><img src="web_images/feature1.png" alt="Feature分支" width="541" height="551"></p>
+    <p><img src="web_images/feature2.png" alt="Feature分支" width="523" height="288"></p>
+    <h4>5、多人协作</h4>
+    <p><img src="web_images/hezuo.png" alt="多人协作" width="524" height="162"></p>
+    <h3>（二）标签管理相关</h3>
+    <h4>1、创建标签</h4>
+    <p><img src="web_images/management_tags.png" alt="创建标签" width="562" height="658"></p>
+    <h4>2、操作标签</h4>
+    <p><img src="web_images/caozuo_tags.png" alt="操作标签" width="491" height="299"></p>
+    <h2>三、实验过程</h2>
+    <p>  实验过程主要就是按照老师发的有关git的学习资料，按照它的步骤，边做边理解，一步一步的跟着做，如果遇到问题，就上网
+        搜索错因，然后改正，也可向同学请教。
+        </p>
+
+    <h2>四、总结</h2>
+    <p>本次实验我遇到的第一个问题是将本地仓库的内容推到远程仓库，我就按照网页上的步骤，一步一步的做，一开始用的是ssh协议，按照步骤
+        在GitHub上面弄了ssh key，总之就是做了很多，但是一直显示没有权限访问，试了很多次都没能将本地仓库的内容推到远程仓库。然后
+        我就放弃了ssh，换成http，在网上搜了关于这个协议该怎么操作才能成功，但是不知道怎么回事，还是多多少少有一些问题，最后经过千难万险，
+        终于成功了.我解决问题的方法很多时候都是上网搜索解决的。</p>
+        <p>我遇到的第二个问题是分支管理的解决冲突那里，我觉得真的特别奇怪，明明都按照那个步骤做了，但是它总会出现意想不到错误，
+        合并dev分支的时候，它突然跳成另一个窗口，然后我按照网上的办法:按esc键，再输入:wq 就能退出，但是我试了好几次都不能退出
+        花了很久的时间搞这个，但是一直弄不好，浪费了很多时间，就先去做后面的了。</p>
+        <p>虽然做这个花了很多时间，但是还是有很多收获，因为试的次数多了，也就记得了有关git的一些操作，比如，git status
+            , git log , git branch, git remove -v ,git switch -c <分支名>（创建分支，并切换到该分支）,git branch -d <分支名> 
+        （删除分支），git branch -D <分支名>，git add <file name> (将工作区修改的文件添加到暂存区) ，git commit -m "xxx"
+        （将修改的内容一次性提交到分支）等等。我的收获还有就是，通过学习，知道了git里面的一些提交，删除的一些原理。
+        </p>
+</body>
+
+</html>
